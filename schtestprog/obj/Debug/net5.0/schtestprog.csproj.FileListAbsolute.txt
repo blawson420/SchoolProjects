@@ -1,0 +1,15 @@
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/bin/Debug/net5.0/schtestprog.deps.json
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/bin/Debug/net5.0/schtestprog.runtimeconfig.json
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/bin/Debug/net5.0/schtestprog.runtimeconfig.dev.json
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/bin/Debug/net5.0/schtestprog.dll
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/bin/Debug/net5.0/ref/schtestprog.dll
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/bin/Debug/net5.0/schtestprog.pdb
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/obj/Debug/net5.0/schtestprog.csproj.AssemblyReference.cache
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/obj/Debug/net5.0/schtestprog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/obj/Debug/net5.0/schtestprog.AssemblyInfoInputs.cache
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/obj/Debug/net5.0/schtestprog.AssemblyInfo.cs
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/obj/Debug/net5.0/schtestprog.csproj.CoreCompileInputs.cache
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/obj/Debug/net5.0/schtestprog.dll
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/obj/Debug/net5.0/ref/schtestprog.dll
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/obj/Debug/net5.0/schtestprog.pdb
+/Users/Blake/Documents/GitHub/SchoolProjects/schtestprog/obj/Debug/net5.0/schtestprog.genruntimeconfig.cache
